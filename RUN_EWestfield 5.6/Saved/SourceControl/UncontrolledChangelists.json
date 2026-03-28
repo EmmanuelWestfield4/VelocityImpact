@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/tyler/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonBP/Blueprints/health/HealthWidget.uasset",
+				"C:/Users/tyler/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPerson/Health/HeartEmpty.uasset",
+				"C:/Users/tyler/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPerson/Health/HeartFull.uasset",
+				"C:/Users/tyler/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonBP/Blueprints/health/HeartTest.uasset",
+				"C:/Users/tyler/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset",
+				"C:/Users/tyler/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonExampleMap_Auto9.umap",
 				"/Users/emmanuelwestfield/Documents/Unreal Projects/RUN_EWestfield 5.6/Content/ThirdPersonExampleMap_Auto9.umap",
 				"/Users/emmanuelwestfield/Documents/Unreal Projects/RUN_EWestfield 5.6/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset",
 				"/Users/emmanuelwestfield/Documents/Unreal Projects/RUN_EWestfield 5.6/Content/Enemy_AI/Blue_Prints/BP_Enemy_Patrol.uasset",
