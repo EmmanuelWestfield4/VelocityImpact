@@ -72,3 +72,5 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/RUN_EWestfield 5.6/Intermediate
+/RUN_EWestfield 5.6/Saved
