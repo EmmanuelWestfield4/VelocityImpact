@@ -5,14 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/Main_Menu/Main_Menu_Images/kisspng-trail-running-clip-art-jogging-sports-5c02c6610ba363_5651798915436857290477.uasset",
 				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter5.uasset",
 				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter6.uasset",
 				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter2.uasset",
 				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter3.uasset",
 				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter4.uasset",
 				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset",
-				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonExampleMap_Auto9.umap"
+				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonExampleMap_Auto9.umap",
+				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonExampleMap_Auto9_BuiltData.uasset",
+				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/Main_Menu/Main_Menu_Images/kisspng-trail-running-clip-art-jogging-sports-5c02c6610ba363_5651798915436857290477.uasset"
 			]
 		}
 	]
