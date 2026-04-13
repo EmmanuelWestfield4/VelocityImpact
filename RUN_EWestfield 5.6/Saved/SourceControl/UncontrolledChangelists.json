@@ -5,12 +5,27 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/Taiuto/Documents/GitHub/VelocityImpact/RUN_EWestfield 5.6/Content/Cinematic/Master.uasset",
 				"C:/Users/Taiuto/Documents/GitHub/VelocityImpact/RUN_EWestfield 5.6/Content/Cinematic/Shot_2.uasset",
 				"C:/Users/Taiuto/Documents/GitHub/VelocityImpact/RUN_EWestfield 5.6/Content/Cinematic/Shot_1.uasset",
 				"C:/Users/Taiuto/Documents/GitHub/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonExampleMap_Auto9.umap",
 				"C:/Users/Taiuto/Documents/GitHub/VelocityImpact/RUN_EWestfield 5.6/Content/Splash/EdSplash.uasset",
 				"C:/Users/Taiuto/Documents/GitHub/VelocityImpact/RUN_EWestfield 5.6/Content/Splash/Splash.uasset",
+=======
+				"C:/Users/rholiday/Documents/GitHub/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset",
+				"C:/Users/rholiday/Documents/GitHub/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonExampleMap_Auto9.umap",
+				"C:/Users/rholiday/Documents/GitHub/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/rholiday/Documents/GitHub/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonBP/Blueprints/health/TimerWidget.uasset",
+				"C:/Users/rholiday/Documents/GitHub/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/rholiday/Documents/GitHub/VelocityImpact/RUN_EWestfield 5.6/Content/Main_Menu/MainMenuWidget.uasset",
+				"C:/Users/homel/Documents/Github/VelocityImpact/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonExampleMap_Auto9.umap",
+				"C:/Users/homel/Documents/Github/VelocityImpact/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/homel/Documents/Github/VelocityImpact/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset",
+				"C:/Users/homel/Documents/Github/VelocityImpact/VelocityImpact/RUN_EWestfield 5.6/Content/Input/IMC_Default.uasset",
+				"C:/Users/homel/Documents/Github/VelocityImpact/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/homel/Documents/Github/VelocityImpact/VelocityImpact/RUN_EWestfield 5.6/Content/Input/Actions/IA_MoveP2.uasset",
+>>>>>>> R_Changes_WIP
 				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter5.uasset",
 				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter6.uasset",
 				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter2.uasset",
