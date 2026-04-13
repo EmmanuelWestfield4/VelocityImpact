@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Taiuto/Desktop/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonExampleMap_Auto9.umap",
+				"C:/Users/Taiuto/Desktop/VelocityImpact/RUN_EWestfield 5.6/Content/PowerUPS/Protection/phong5.uasset",
+				"C:/Users/Taiuto/Desktop/VelocityImpact/RUN_EWestfield 5.6/Content/PowerUPS/Jump/phong6.uasset",
+				"C:/Users/Taiuto/Desktop/VelocityImpact/RUN_EWestfield 5.6/Content/PowerUPS/Health/phong4.uasset",
+				"C:/Users/Taiuto/Desktop/VelocityImpact/RUN_EWestfield 5.6/Content/PowerUPS/Invincible/phong3.uasset",
+				"C:/Users/Taiuto/Desktop/VelocityImpact/RUN_EWestfield 5.6/Content/PowerUPS/Running/WIP_Phong.uasset",
+				"C:/Users/Taiuto/Desktop/VelocityImpact/RUN_EWestfield 5.6/Content/PowerUPS/Health/PowerUP_HealthBP.uasset",
 				"C:/Users/rholiday/Documents/GitHub/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonExampleMap_Auto9.umap",
 				"C:/Users/rholiday/Documents/GitHub/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset"
 			]
