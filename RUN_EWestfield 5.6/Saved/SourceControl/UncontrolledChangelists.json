@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/tyler/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPerson/BomberBill/BomberBillEyes.uasset",
+				"C:/Users/tyler/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPerson/BomberBill/BomberBillEyesOpacity.uasset",
+				"C:/Users/tyler/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/tyler/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonBP/Blueprints/health/HealthWidget.uasset",
+				"C:/Users/tyler/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonBP/Blueprints/health/HeartTest.uasset",
+				"C:/Users/tyler/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset",
+				"C:/Users/tyler/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset",
 				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/Charaters/Amy_46/Character_Ani_Blueprint.uasset",
