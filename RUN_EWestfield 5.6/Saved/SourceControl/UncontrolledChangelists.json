@@ -5,6 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
+=======
+				"C:/Users/Taiuto/Documents/GitHub/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Taiuto/Documents/GitHub/VelocityImpact/RUN_EWestfield 5.6/Content/Win/WB_BomberWin.uasset",
+				"C:/Users/Taiuto/Documents/GitHub/VelocityImpact/RUN_EWestfield 5.6/Content/Win/Win.uasset",
+				"C:/Users/Taiuto/Documents/GitHub/VelocityImpact/RUN_EWestfield 5.6/Content/Win/WB_SugarWin.uasset",
+				"C:/Users/Taiuto/Documents/GitHub/VelocityImpact/RUN_EWestfield 5.6/Content/Win/Win_Sugarshy.uasset",
+				"C:/Users/Taiuto/Documents/GitHub/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonExampleMap_Auto9.umap",
+				"C:/Users/Taiuto/Documents/GitHub/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset",
+				"C:/Users/tyler/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/PowerUPS/Health/phong4.uasset",
+				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/Interactable/M_Trampoline.uasset",
+>>>>>>> c261d3cdfffbe10defc5d90ac2746939b5266393
 				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonExampleMap_Auto9.umap",
 				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/Interactable/BP_LaunchPad.uasset",
 				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/_GENERATED/emmanuelwestfield/Rectangle_BD954977.uasset",
