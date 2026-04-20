@@ -5,6 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Velocity Impact Folder/VelocityImpact/RUN_EWestfield 5.6/Content/PowerUPS/Health/PowerUP_HealthBP.uasset",
+				"D:/Velocity Impact Folder/VelocityImpact/RUN_EWestfield 5.6/Content/PowerUPS/Health/Power_Up3.uasset",
+				"D:/Velocity Impact Folder/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPerson/Health/HealthRegen/BP_HealthRegen.uasset",
+				"D:/Velocity Impact Folder/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonExampleMap_Auto9.umap",
+				"D:/Velocity Impact Folder/VelocityImpact/RUN_EWestfield 5.6/Content/PowerUPS/Invincible/BP_Invincible.uasset",
+				"D:/Velocity Impact Folder/VelocityImpact/RUN_EWestfield 5.6/Content/PowerUPS/Jump/BP_Jump.uasset",
+				"D:/Velocity Impact Folder/VelocityImpact/RUN_EWestfield 5.6/Content/PowerUPS/Protection/BP_Protection.uasset",
+				"D:/Velocity Impact Folder/VelocityImpact/RUN_EWestfield 5.6/Content/PowerUPS/Running/BP_Running.uasset",
+				"D:/Velocity Impact Folder/VelocityImpact/RUN_EWestfield 5.6/Content/PowerUPS/Invincible/M_Invincible.uasset",
+				"D:/Velocity Impact Folder/VelocityImpact/RUN_EWestfield 5.6/Content/Win/Win.uasset",
+				"D:/Velocity Impact Folder/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Velocity Impact Folder/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset",
+				"D:/Velocity Impact Folder/VelocityImpact/RUN_EWestfield 5.6/Content/Win/Win_Sugarshy.uasset",
 				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset",
 				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/Animation/Michelle_Motion_Ch4/New_Michelle/Walking_5_.uasset",
@@ -84,6 +97,7 @@
 				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPerson/Blueprints/IMC_PlayerControls.uasset",
 				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPerson/Blueprints/IA_Target.uasset",
 				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset",
+<<<<<<< HEAD
 				"/Users/emmanuelwestfield/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/PowerUPS/Jump/BP_Jump.uasset",
 				"D:/Velocity Impact Folder/VelocityImpact/RUN_EWestfield 5.6/Content/PowerUPS/Health/PowerUP_HealthBP.uasset",
 				"D:/Velocity Impact Folder/VelocityImpact/RUN_EWestfield 5.6/Content/PowerUPS/Health/Power_Up3.uasset",
@@ -94,6 +108,8 @@
 				"D:/Velocity Impact Folder/VelocityImpact/RUN_EWestfield 5.6/Content/PowerUPS/Protection/BP_Protection.uasset",
 				"D:/Velocity Impact Folder/VelocityImpact/RUN_EWestfield 5.6/Content/PowerUPS/Running/BP_Running.uasset",
 				"D:/Velocity Impact Folder/VelocityImpact/RUN_EWestfield 5.6/Content/PowerUPS/Invincible/M_Invincible.uasset",
+=======
+>>>>>>> 45254cf5ac81a5da16f090f492d76bcd36c47ae0
 				"/Users/Shared/Epic Games/UE_5.6/Engine/Plugins/Marketplace/TargetSy5ca7a0ce9d5fV14/Content/Example/BP_TargetSystem_Character.uasset",
 				"/Users/Shared/Epic Games/UE_5.6/Engine/Plugins/Marketplace/TargetSy5ca7a0ce9d5fV14/Content/Example/BP_TargetSystemTestGameMode.uasset",
 				"C:/Users/tyler/Documents/Unreal Projects/VelocityImpact/RUN_EWestfield 5.6/Content/ThirdPerson/BomberBill/BomberBillEyes.uasset",
