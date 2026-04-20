@@ -74,3 +74,4 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 /RUN_EWestfield 5.6/Intermediate
 /RUN_EWestfield 5.6/Saved
+*.uasset
